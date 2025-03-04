@@ -62,6 +62,7 @@ const Entry = () => {
             alt="Shop"
             className="w-full h-full object-cover"
           />
+          {/* https://i.pinimg.com/736x/0e/91/e8/0e91e889e06f917df8042895c27ec760.jpg */}
           <div className="absolute inset-0 bg-gradient-to-r from-gray-900 via-purple-900 to-purple-700 opacity-70"></div>
           <div className="absolute inset-0 flex flex-col justify-between p-8 z-10">
             <div>
